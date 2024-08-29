@@ -1,0 +1,72 @@
+{
+  "id" : "aplicacionSolicitudVacaciones",
+  "name" : "aplicacionSolicitudVacaciones",
+  "type" : "page",
+  "uuid" : "55a104d5-423c-48fe-9447-c1df9812512c",
+  "modelVersion" : "2.6",
+  "previousArtifactVersion" : "2.2",
+  "lastUpdate" : 1719937263037,
+  "description" : "Page generated with Bonita UI designer",
+  "rows" : [
+    [
+      {
+        "type" : "component",
+        "dimension" : {
+          "xs" : 12,
+          "sm" : 12,
+          "md" : 12,
+          "lg" : 12
+        },
+        "propertyValues" : {
+          "cssClasses" : {
+            "type" : "constant",
+            "value" : ""
+          },
+          "hidden" : {
+            "type" : "constant",
+            "value" : false
+          },
+          "text" : {
+            "type" : "interpolation",
+            "value" : "Aplicación de gestión de vacaciones"
+          },
+          "level" : {
+            "type" : "constant",
+            "value" : "Level 2"
+          },
+          "alignment" : {
+            "type" : "constant",
+            "value" : "left"
+          },
+          "allowHTML" : {
+            "type" : "constant",
+            "value" : true
+          }
+        },
+        "reference" : "8639f2b5-7503-4705-b499-680ecd97b085",
+        "hasValidationError" : false,
+        "id" : "pbTitle"
+      }
+    ]
+  ],
+  "variables" : { },
+  "assets" : [
+    {
+      "id" : "44b01c1e-09ff-49a9-b028-667249fe978b",
+      "name" : "style.css",
+      "type" : "css",
+      "order" : 0,
+      "external" : false
+    },
+    {
+      "id" : "995ecd58-c0c0-4dd1-beca-0aa5fc7a3a12",
+      "name" : "localization.json",
+      "type" : "json",
+      "order" : 0,
+      "external" : false
+    }
+  ],
+  "inactiveAssets" : [ ],
+  "webResources" : [ ],
+  "hasValidationError" : false
+}
